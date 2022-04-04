@@ -2,10 +2,10 @@ import React from "react";
 import { useState, useRef, useEffect } from "react";
 
 const Countdown = () => {
-  const [days, setDays] = useState("00");
-  const [hours, setHours] = useState("00");
-  const [minutes, setMinutes] = useState("00");
-  const [seconds, setSeconds] = useState("00");
+  const [days, setDays] = useState("0");
+  const [hours, setHours] = useState("0");
+  const [minutes, setMinutes] = useState("0");
+  const [seconds, setSeconds] = useState("0");
 
   let interval = useRef();
 
