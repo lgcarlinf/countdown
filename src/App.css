@@ -18,6 +18,7 @@ h1 {
   letter-spacing: 4px;
   font-family: "Red Hat Text", sans-serif;
   margin-top: 100px;
+  text-transform: uppercase;
 }
 
 .footer {

@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>WE'RE LAUCHING SOON</h1>
+      <h1>My birthday is very soon</h1>
        <Countdown /> 
           <Footer />
     </div>
